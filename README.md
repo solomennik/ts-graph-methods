@@ -2,7 +2,7 @@
 
 This code was written by A. Suvorov within his work in [CACS](https://cacs.ai/).
 
-[The origin]([https://github.com/aysuvorov/cacs_testing/tree/main/Convo-network-with-graphs](https://github.com/aysuvorov/cacs_testing/tree/main/Ts-graph-methods))
+[The origin](https://github.com/aysuvorov/cacs_testing/tree/main/Ts-graph-methods)
 
 Демонстрация методов обработки временных рядов с помощью графов. Использован паренклитический подход M.Zanin и корреляционные графы А.Горбаня. 
 
